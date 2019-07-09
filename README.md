@@ -86,5 +86,5 @@ ImageIcon pageIcon = new ImageIcon("src/images/page.png");
 JMenu page = new JMenu("View Page");
 page.setIcon(pageIcon);
 ```
-The full source code can be viewed by clicking [here]
+The full source code can be viewed by clicking [here](https://github.com/Hephaest/MenuInWordFormat/blob/master/src/MyMenu.java).
  
