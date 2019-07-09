@@ -1,4 +1,23 @@
+目录
+=================
+   * [菜单效果演示图](#菜单效果演示图)
+   * [简单的菜单布局设计](#简单的菜单布局设计)
+   * [功能分组原理](#功能分组原理)
+      * [功能性](#功能性)
+      * [时序性](#时序性)
+      * [使用频率](#使用频率)
+   * [菜单设计原理](#菜单设计原理)
+      * [费茨法则](#费茨法则)
+      * [人类是会犯错误的](#人类是会犯错误的)
+      * [人类的失误](#人类的失误)
+   * [Java 编程实现](#java-编程实现)
+   
 # 菜单效果演示图
+**Microsoft Word**
+<p align="center"><img src ="images/word.gif" width = "600px"></p>
+
+**本程序菜单**
+<p align="center"><img src ="images/JavaMenu.gif" width = "600px"></p>
 
 # 简单的菜单布局设计
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/MenuInWordFormat/blob/master/LICENSE)
@@ -88,5 +107,5 @@ ImageIcon pageIcon = new ImageIcon("src/images/page.png");
 JMenu page = new JMenu("View Page");
 page.setIcon(pageIcon);
 ```
-完整代码可通过点击 [这里] 获取。
+完整代码可通过点击 [这里](https://github.com/Hephaest/MenuInWordFormat/blob/master/src/MyMenu.java) 获取。
  
