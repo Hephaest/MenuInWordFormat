@@ -1,4 +1,23 @@
+Table of Contents
+=================
+   * [Menu Demo](#menu-demo)
+   * [A Simple Menu Layout Design](#a-simple-menu-layout-design)
+   * [Function grouping Principle](#function-grouping-principle)
+      * [Functionality](#functionality)
+      * [Sequence](#sequence)
+      * [Frequency](#frequency)
+   * [Design Principle](#design-principle)
+      * [Fitts' law](#fitts-law)
+      * [Human mistakes](#human-mistakes)
+      * [Human slips](#human-slips)
+   * [Java Implementation](#java-implementation)
+   
 # Menu Demo
+**Microsoft Word**
+<p align="center"><img src ="images/word.gif" width = "600px"></p>
+
+**Menu**
+<p align="center"><img src ="images/JavaMenu.gif" width = "600px"></p>
 
 # A Simple Menu Layout Design
 [![LICENSE](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://github.com/Hephaest/MenuInWordFormat/blob/master/LICENSE)
@@ -34,7 +53,7 @@ e.g., the user wants to save the document but he may think that “save as” is
 ## Human slips
 e.g., the users could accidentally press the “delete” rather then “paste” if functions are not appropriately grouped.
 
-# Design Principle
+# Java Implementation
 Inspired by Microsoft Word styles and above principles, my final design was to use large icons to decorate the common operations.
 In addition, these operations were wrapped in pop-up submenus.<br>
 **Submenus** are achieved by `JToolBar` once the user clicks one of them, another should be remove from `JFrame`.<br>
