@@ -33,6 +33,7 @@ The task of this coursework only asks for function grouping but not need any cod
 In order to express the design principles of my team, I decided to make this menu.
 
 The functions we needed to sort has been listed as follows:
+<p align="center"><img src ="images/Tree.jpg"></p>
 
 # Function grouping Principle
 ## Functionality
