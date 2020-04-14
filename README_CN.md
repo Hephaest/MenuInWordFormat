@@ -1,17 +1,3 @@
-目录
-=================
-   * [菜单效果演示图](#菜单效果演示图)
-   * [简单的菜单布局设计](#简单的菜单布局设计)
-   * [功能分组原理](#功能分组原理)
-      * [功能性](#功能性)
-      * [时序性](#时序性)
-      * [使用频率](#使用频率)
-   * [菜单设计原理](#菜单设计原理)
-      * [费茨法则](#费茨法则)
-      * [人类是会犯错误的](#人类是会犯错误的)
-      * [人类的失误](#人类的失误)
-   * [Java 编程实现](#java-编程实现)
-   
 # 菜单效果演示图
 **Microsoft Word**
 <p align="center"><img src ="images/word.gif" width = "600px"></p>
@@ -25,8 +11,6 @@
 [![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://github.com/Hephaest/MenuInWordFormat/tree/master/src)
 
 [English](README_CN.md) | 中文
-
-最后一次更新于 `2019/07/09`
 
 这个项目是 CNSCC.202: 人机交互设计课程 的一个小作业。<br>
 不过该作业的要求是不需要编写任何代码的。<br>

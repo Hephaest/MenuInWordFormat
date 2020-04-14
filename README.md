@@ -1,18 +1,4 @@
-Table of Contents
-=================
-   * [Menu Demo](#menu-demo)
-   * [A Simple Menu Layout Design](#a-simple-menu-layout-design)
-   * [Function grouping Principle](#function-grouping-principle)
-      * [Functionality](#functionality)
-      * [Sequence](#sequence)
-      * [Frequency](#frequency)
-   * [Design Principle](#design-principle)
-      * [Fitts' law](#fitts-law)
-      * [Human mistakes](#human-mistakes)
-      * [Human slips](#human-slips)
-   * [Java Implementation](#java-implementation)
-   
-# Menu Demo
+   # Menu Demo
 **Microsoft Word**
 <p align="center"><img src ="images/word.gif" width = "600px"></p>
 
@@ -25,8 +11,6 @@ Table of Contents
 [![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-green.svg)](https://github.com/Hephaest/MenuInWordFormat/tree/master/src)
 
 English | [中文](README_CN.md)
-
-Last updated on `2019/07/09`
 
 This project was small coursework from the CNSCC.202: Human-Computer Interaction (Lancaster University).<br>
 The task of this coursework only asks for function grouping but not need any coding work.<br>
